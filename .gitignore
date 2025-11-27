@@ -1,0 +1,4 @@
+.DS_Store
+Thumbs.db
+mpm-degug.log*
+node_modules/
